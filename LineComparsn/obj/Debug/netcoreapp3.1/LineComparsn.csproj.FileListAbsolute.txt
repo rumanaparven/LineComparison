@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.exe
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.deps.json
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.runtimeconfig.json
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.dll
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\bin\Debug\netcoreapp3.1\LineComparsn.pdb
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.AssemblyInfo.cs
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.dll
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.pdb
+C:\Users\USER\source\repos\LineComparsn\LineComparsn\obj\Debug\netcoreapp3.1\LineComparsn.genruntimeconfig.cache
