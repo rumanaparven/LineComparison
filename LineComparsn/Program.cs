@@ -26,13 +26,18 @@ namespace LineComparsn
                 Console.WriteLine("Length of the line : " + Math.Round(length[count], 2));
                 count++;
             }
-            if (length[0]==length[1]) {
+            int result = length[0].CompareTo(length[1]);
+
+            if (result<0) {
+                Console.WriteLine("Line 1 is smaller than line 2.");
+            }
+            else if (result == 0)
+            {
                 Console.WriteLine("Lines are equal.");
             }
-
             else
             {
-                Console.WriteLine("Lines are not equal.");
+                Console.WriteLine("Line 1 is greater than line 2.");
             }
         }
     }
